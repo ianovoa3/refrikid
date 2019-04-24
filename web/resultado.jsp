@@ -28,7 +28,7 @@
             
             if(resultado){  %>
                 <script>
-                    alert('¡ENVIADO CORRECTAMENTE!');
+                    alert('¡prueba de que se envio!');
                     location.href ="index.jsp";
                 </script> 
            <%}else{%>
